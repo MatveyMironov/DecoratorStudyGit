@@ -167,6 +167,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 406a978e4c1e136418b90585f5899207, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hotdogSOs:
+  - {fileID: 11400000, guid: e99fd9cf7e0765340ba0e65dcd163d18, type: 2}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
